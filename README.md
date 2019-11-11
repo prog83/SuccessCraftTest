@@ -1,2 +1,2 @@
-# SuccessCraftTest
-https://success-craft.com/ test task
+# SuccessCraft
+https://success-craft.com/ task
